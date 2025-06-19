@@ -18,3 +18,10 @@
         }
 	}
 }
+
+@media (max-width: 800px){
+	.btnContainer{
+		order: 4;
+        margin-bottom: 48px;
+	}
+}

@@ -1,6 +1,7 @@
 .layout {
 	background-color: #000000;
-	height: 1603px;
+	overflow-y: auto;
+	height: 100vh;
 	font-family: Helvetica;
 
 	.container {
@@ -11,10 +12,31 @@
 	}
 
 	.background {
-		height: 726px;
 		background-size: cover;
 		background-position: center;
 		width: 100%;
 		background-image: url('../../images/bgBig.png');
+	}
+}
+
+@media (max-width: 600px) {
+	.layout {
+		.container {
+			padding: 0 20px;
+		}
+
+		.background {
+			background-size: auto 1789px;
+			background-position: bottom center;
+			background-image: url('../../images/bgBigForMobile.jpg');
+		}
+	}
+}
+
+@media (max-width: 400px) {
+	.layout {
+		.container {
+			padding: 0;
+		}
 	}
 }

@@ -16,11 +16,9 @@ function App() {
 				<Button />
 			</div>
 			<div className={st.background}>
-				<div className={st.container}>
-					<SectionThree />
-					<Footer />
-				</div>
+				<SectionThree />
 			</div>
+			<Footer />
 		</div>
 	);
 }
