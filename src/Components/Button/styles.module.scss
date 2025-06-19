@@ -21,7 +21,9 @@
 
 @media (max-width: 800px){
 	.btnContainer{
-		order: 4;
+		-webkit-box-ordinal-group: 5;
+		    -ms-flex-order: 4;
+		        order: 4;
         margin-bottom: 48px;
 	}
 }

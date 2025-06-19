@@ -1,25 +1,32 @@
 .section {
 	text-align: center;
 	color: #ffffff;
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
 	flex-direction: column;
 	margin-bottom: 16px;
 
 	.title {
 		margin: 0 0 16px 0;
-        font-weight: 700;
-        font-size: 33px;
+		font-weight: 700;
+		font-size: 33px;
 	}
 	.txt {
-        margin: 0 auto;
-        max-width: 338px;
-        font-size: 24px;
-        line-height: 30px;
+		margin: 0 auto;
+		max-width: 338px;
+		font-size: 24px;
+		line-height: 30px;
 	}
 }
 
-@media (max-width: 800px){
-	.section{
+@media (max-width: 800px) {
+	.section {
+		-webkit-box-ordinal-group: 2;
+		-ms-flex-order: 1;
 		order: 1;
 		padding: 42px 21px 0;
 	}
