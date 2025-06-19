@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Melbet/static/css/main.b84b785b.css",
+    "main.js": "/Melbet/static/js/main.2df6dba0.js",
+    "static/js/453.4f905e39.chunk.js": "/Melbet/static/js/453.4f905e39.chunk.js",
+    "static/media/tg.png": "/Melbet/static/media/tg.ff791e046e907e3cac80.png",
+    "static/media/x.png": "/Melbet/static/media/x.29ec94b39c50346b5065.png",
+    "static/media/tt.png": "/Melbet/static/media/tt.00160bf4cb7e65acdde6.png",
+    "static/media/bgBig.png": "/Melbet/static/media/bgBig.33d5b3a50d0ceb9d39d5.png",
+    "static/media/fb.png": "/Melbet/static/media/fb.3ead7de6b85c7591a63a.png",
+    "static/media/yt.png": "/Melbet/static/media/yt.dd403998611d382022a9.png",
+    "static/media/bgBigForMobile.jpg": "/Melbet/static/media/bgBigForMobile.8d31a98c46f9820f5ebd.jpg",
+    "static/media/MELBET.png": "/Melbet/static/media/MELBET.806349a4dc0c6d87ed11.png",
+    "static/media/icon1.svg": "/Melbet/static/media/icon1.f3c4cd27761d9059083d00768c0d6308.svg",
+    "static/media/icon2.svg": "/Melbet/static/media/icon2.abc096b52c17bf80b7296ca85a8066fa.svg",
+    "static/media/icon3.svg": "/Melbet/static/media/icon3.7e62bef5c072d123f8304cf23b70dc73.svg",
+    "index.html": "/Melbet/index.html",
+    "static/media/icon4.svg": "/Melbet/static/media/icon4.9b789a3484761be13200f7864ecab4d1.svg",
+    "main.b84b785b.css.map": "/Melbet/static/css/main.b84b785b.css.map",
+    "main.2df6dba0.js.map": "/Melbet/static/js/main.2df6dba0.js.map",
+    "453.4f905e39.chunk.js.map": "/Melbet/static/js/453.4f905e39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b84b785b.css",
+    "static/js/main.2df6dba0.js"
+  ]
+}
