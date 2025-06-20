@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Melbet/static/css/main.b84b785b.css",
+    "main.css": "/Melbet/static/css/main.947780b8.css",
     "main.js": "/Melbet/static/js/main.2df6dba0.js",
     "static/js/453.4f905e39.chunk.js": "/Melbet/static/js/453.4f905e39.chunk.js",
     "static/media/tg.png": "/Melbet/static/media/tg.ff791e046e907e3cac80.png",
@@ -16,12 +16,12 @@
     "static/media/icon3.svg": "/Melbet/static/media/icon3.7e62bef5c072d123f8304cf23b70dc73.svg",
     "index.html": "/Melbet/index.html",
     "static/media/icon4.svg": "/Melbet/static/media/icon4.9b789a3484761be13200f7864ecab4d1.svg",
-    "main.b84b785b.css.map": "/Melbet/static/css/main.b84b785b.css.map",
+    "main.947780b8.css.map": "/Melbet/static/css/main.947780b8.css.map",
     "main.2df6dba0.js.map": "/Melbet/static/js/main.2df6dba0.js.map",
     "453.4f905e39.chunk.js.map": "/Melbet/static/js/453.4f905e39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84b785b.css",
+    "static/css/main.947780b8.css",
     "static/js/main.2df6dba0.js"
   ]
 }
